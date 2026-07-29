@@ -1,5 +1,8 @@
 # BL-FNB-SALES
-Retail Profitability & Pricing Governance (2013–2016)
+
+Dashboard link: https://blfnbsalesreport.lovable.app
+
+#Retail Profitability & Pricing Governance (2013–2016)
 
 📌 Executive Summary
 Between 2013 and 2016, the BL FNB Sales dataset captured over R161.5 million in retail transactions across major chains and independent wholesale accounts. While trade volumes peaked during 2014–2015, unstructured promotional pricing caused heavy trading below the strategic cost floor of R36.75 COGS.
