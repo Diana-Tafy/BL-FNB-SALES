@@ -1,4 +1,4 @@
-# BL-FNB-SALES-Report
+# BL-FNB-SALES-REPORT
 
 Dashboard link: https://blfnbsalesreport.lovable.app
 
