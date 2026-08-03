@@ -1,4 +1,4 @@
-# BL-FNB-SALES
+# BL-FNB-SALES-Report
 
 Dashboard link: https://blfnbsalesreport.lovable.app
 
@@ -61,3 +61,10 @@ Dataset Scope: Extracted and processed historical sales records totaling R161.5M
 *Data Processing & Prep: Microsoft Excel (Pivot tables, formulas, X-axis label optimization) & Python &SQL Databricks.
 
 *Deployment & Hosting: Lovable Platform.
+
+###Power BI Screenshot Dashboard
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/3d066048-8837-4b52-8dec-888298ab16b7" />
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/f8c4e6f2-d4f0-45d9-b35d-13919bc57ffb" />
+
+
